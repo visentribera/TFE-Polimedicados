@@ -1,1 +1,1 @@
-Documentación sobre la base de datos PostgreSQL v.17.5
+Documentación sobre la base de datos en PostgreSQL v.17.5
